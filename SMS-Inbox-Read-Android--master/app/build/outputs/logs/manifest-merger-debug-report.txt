@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\28a7407b6d2ae13fc900c2d401d869fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e6c1d383498f504f0414f4b8dbae9d38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.mtotschnig:StickyListHeaders:2.7.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\StickyListHeaders-2.7.1.aar\b61b64edc22d7a5285aeff30911ff751\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f8853be786d5c951bb3362aacaae5f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5865120ddd61ce4e6c8604c4aa3cb32f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c4008673baf3f0fa89c57dbbbd24955a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6dd7bfe1490638c12b80b38b884d8276\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b37812490d3c277bc78eeeea8944f403\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7db96b0246f2f2fdb623c81d5683fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e888886c2470917d3a92a7ddc4c97bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\835fc13ff208d589ce3428a05b01d49b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a26dd4698e6327beaff8ad51dc054b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b37a81e7581e33814f9c51ae26a3df9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f73912959a13b14a562f03ffa87f568\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9b0f1c855010587fc87f99bddd8cc6b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9794f88171e4a193060d52efb8185e26\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\72477eb5221a0716c326a7912e645f99\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:3:2-26
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:3:51-76
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:3:27-50
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\28a7407b6d2ae13fc900c2d401d869fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\28a7407b6d2ae13fc900c2d401d869fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e6c1d383498f504f0414f4b8dbae9d38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e6c1d383498f504f0414f4b8dbae9d38\AndroidManifest.xml:20:5-44
+MERGED from [com.github.mtotschnig:StickyListHeaders:2.7.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\StickyListHeaders-2.7.1.aar\b61b64edc22d7a5285aeff30911ff751\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mtotschnig:StickyListHeaders:2.7.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\StickyListHeaders-2.7.1.aar\b61b64edc22d7a5285aeff30911ff751\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f8853be786d5c951bb3362aacaae5f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3f8853be786d5c951bb3362aacaae5f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5865120ddd61ce4e6c8604c4aa3cb32f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5865120ddd61ce4e6c8604c4aa3cb32f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c4008673baf3f0fa89c57dbbbd24955a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\c4008673baf3f0fa89c57dbbbd24955a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6dd7bfe1490638c12b80b38b884d8276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6dd7bfe1490638c12b80b38b884d8276\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b37812490d3c277bc78eeeea8944f403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b37812490d3c277bc78eeeea8944f403\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7db96b0246f2f2fdb623c81d5683fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c7db96b0246f2f2fdb623c81d5683fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e888886c2470917d3a92a7ddc4c97bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e888886c2470917d3a92a7ddc4c97bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\835fc13ff208d589ce3428a05b01d49b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\835fc13ff208d589ce3428a05b01d49b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a26dd4698e6327beaff8ad51dc054b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a26dd4698e6327beaff8ad51dc054b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b37a81e7581e33814f9c51ae26a3df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\1b37a81e7581e33814f9c51ae26a3df9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f73912959a13b14a562f03ffa87f568\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f73912959a13b14a562f03ffa87f568\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9b0f1c855010587fc87f99bddd8cc6b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9b0f1c855010587fc87f99bddd8cc6b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9794f88171e4a193060d52efb8185e26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9794f88171e4a193060d52efb8185e26\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\72477eb5221a0716c326a7912e645f99\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\72477eb5221a0716c326a7912e645f99\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:2-40
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:4:12-37
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:6:2-67
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:6:19-64
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:7:2-80
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:7:19-61
+application
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:9:2-24:16
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:26:5-30:19
+	android:label
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:9:45-77
+	android:icon
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:9:15-44
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:10:3-39
+activity#com.vrs.smsapp.MessageBox
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:11:3-17:14
+	android:launchMode
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:12:4-34
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:11:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:14:5-57
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:15:15-62
+receiver#com.vrs.smsapp.Receiver.SmsReceiver
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:19:19-55
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:20:13-22:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:21:17-81
+	android:name
+		ADDED from C:\Users\Gourav\Downloads\SMS-Inbox-Read-Android--master\SMS-Inbox-Read-Android--master\app\src\main\AndroidManifest.xml:21:25-79
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Gourav\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\140767ecfb34c161f603fb908abc9369\AndroidManifest.xml:28:13-60

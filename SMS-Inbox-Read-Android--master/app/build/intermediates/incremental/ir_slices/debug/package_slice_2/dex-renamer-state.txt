@@ -1,0 +1,4 @@
+#Sat Sep 29 16:12:25 PDT 2018
+base.0=C\:\\Users\\Gourav\\Downloads\\SMS-Inbox-Read-Android--master\\SMS-Inbox-Read-Android--master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
